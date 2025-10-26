@@ -41,7 +41,7 @@
   
 
 ## ارتباط با من:
-1. [ایمیل من](alirezamoradioriginal@gmail.com)
+1. ایمیل من: alirezamoradioriginal@gmail.con
 2. [اینستاگرام من](https://www.instagram.com/alirezamoradi.psy?igsh=NXc5cDc5am1oY2Ro)
 3. [تلگرام من](https://t.me/psychewriter)
 
