@@ -3,4 +3,4 @@ logo: /assets/img/headshot_cirlce.png
 logo: /assets/img/headshot_circle.png
 description: روانشناس و مدرس
 #show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
